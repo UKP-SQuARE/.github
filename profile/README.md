@@ -1,0 +1,1 @@
+UKP-SQuARE is an online platform that democratizes QA research. Its main goal is to simplify running, comparing, and analyzing models. It is also the first ecosystem for QA research including a common interface to access explainability methods, adversarial attacks, and graph visualizations, enabling a holistic analysis of the models.
